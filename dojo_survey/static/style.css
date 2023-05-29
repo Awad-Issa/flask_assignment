@@ -1,0 +1,8 @@
+*{
+    margin: 0 auto;
+    background-color: burlywood;
+    border: 2px aqua solid;
+}
+.updiv{
+    display: flex;
+}
